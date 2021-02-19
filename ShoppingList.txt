@@ -6,3 +6,5 @@ chilles
 carrot
 banana
 alu
+cucumber
+radiesh
